@@ -84,7 +84,7 @@ export default function TopBar() {
   return (
     <div className="top">
       <div className="topLeft">
-        <img src={logo} alt="Krishna" />
+        <img src={logo} alt="" />
         <i className="topIcon fab fa-facebook-square"></i>
         <i className="topIcon fab fa-twitter-square"></i>
         <i className="topIcon fab fa-pinterest-square"></i>
